@@ -12,13 +12,13 @@ Text: _italic_. *italic*, __bold__, **bold**. `monospace`.
 ### Horizontal rule
 
 ---
-Bullet list:
-*1
-*2
-*3
+Bullet list:  
+*1  
+*2  
+*3  
 
-Numbered list:
-1.
-2.
-3.
-A [me](http://eric-muchiri.github.io)
+Numbered list:  
+1.  
+2.  
+3.  
+A link [me](http://eric-muchiri.github.io)
